@@ -1,0 +1,4 @@
+Guy-Georges Adou
+Lab 1 reflection.
+
+The lab went pretty good for me. I have experience with C even though i'm getting a bit rusty on that. I remember compiling and running a lot of codes in the command line and it's kind of the same with Java so far.
